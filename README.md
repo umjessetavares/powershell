@@ -4,3 +4,4 @@
 ## Lista de scripts
 * [Configuração de endereço DNS IPV4](https://github.com/umjessetavares/powershell/blob/main/ipv4_dns_configuraton.ps1)
 * [Habilitar o Microsft Hyper-V em um Windows Home Edition](https://github.com/umjessetavares/powershell/blob/main/enable_hyperv_windows_home.ps1)
+* [Liberar Portas do MS SQL Server no Firewall do Windows via Powershell](https://github.com/umjessetavares/powershell/blob/main/enable_hyperv_windows_home.ps1)
